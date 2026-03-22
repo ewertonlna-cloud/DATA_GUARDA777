@@ -1,2 +1,5 @@
-# enem-governan-a-paraiba
-Projeto de governança de dados para IA com microdados do ENEM 2023 - Paraíba
+projeto-governanca-ia/
+├── app.py              # Código principal Streamlit
+├── database.db         # Banco SQL leve (SQLite)
+├── requirements.txt    # Dependências (Pandas, Plotly, etc.)
+└── README.md           # Explicação do projeto (O seu portfólio!)
