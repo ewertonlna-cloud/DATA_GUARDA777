@@ -61,12 +61,12 @@ with tab2:
 
 with tab3:
     st.dataframe(df_filtrado.head(100), use_container_width=True)
-```
+
 
 ---
 
 ## 📄 Arquivo 4 — `requirements.txt`
-```
+
 streamlit
 pandas
 numpy
